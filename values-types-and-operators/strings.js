@@ -5,7 +5,7 @@
 
 exports.hello = function (name) {
   if (!name) { // if no name
-    return "You have to enter your name";
+    return "Hello, World!";
   } else {
     return name;
   }
