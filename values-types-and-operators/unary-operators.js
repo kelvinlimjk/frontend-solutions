@@ -4,5 +4,5 @@
  */
 
 exports.typeOf = function (value) {
-  return 'Type of ' + value + ' is ' + "number"
+  return 'Type of ' + value + ' is ' + typeof "number"
 }
